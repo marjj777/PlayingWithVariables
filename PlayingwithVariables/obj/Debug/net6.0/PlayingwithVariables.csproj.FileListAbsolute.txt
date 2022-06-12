@@ -1,0 +1,15 @@
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\bin\Debug\net6.0\PlayingwithVariables.exe
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\bin\Debug\net6.0\PlayingwithVariables.deps.json
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\bin\Debug\net6.0\PlayingwithVariables.runtimeconfig.json
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\bin\Debug\net6.0\PlayingwithVariables.dll
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\bin\Debug\net6.0\PlayingwithVariables.pdb
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\obj\Debug\net6.0\PlayingwithVariables.csproj.AssemblyReference.cache
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\obj\Debug\net6.0\PlayingwithVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\obj\Debug\net6.0\PlayingwithVariables.AssemblyInfoInputs.cache
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\obj\Debug\net6.0\PlayingwithVariables.AssemblyInfo.cs
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\obj\Debug\net6.0\PlayingwithVariables.csproj.CoreCompileInputs.cache
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\obj\Debug\net6.0\PlayingwithVariables.dll
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\obj\Debug\net6.0\refint\PlayingwithVariables.dll
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\obj\Debug\net6.0\PlayingwithVariables.pdb
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\obj\Debug\net6.0\PlayingwithVariables.genruntimeconfig.cache
+C:\Users\joel\repos\PlayingwithVariables\PlayingwithVariables\obj\Debug\net6.0\ref\PlayingwithVariables.dll
